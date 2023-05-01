@@ -24,4 +24,4 @@ Soy un programador Java con dos años de experiencia en el desarrollo de aplicac
 
 Si quieres contactar conmigo, puedes hacerlo a través de mi correo electrónico: [tu correo electrónico aquí](mailto:emanuelzero@gmail.com).
 
-¡Gracias por visitar mi perfil!
+
