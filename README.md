@@ -1,6 +1,6 @@
 # Bienvenidos a mi perfil de GitHub
 
-Soy un programador Java con dos años de experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona el mundo de la tecnología y siempre estoy buscando aprender cosas nuevas.
+Soy un programador Java con dos años de experiencia en el desarrollo de aplicaciones web. Me apasiona el mundo de la tecnología y siempre estoy buscando aprender cosas nuevas.
 
 ## Experiencia
 
