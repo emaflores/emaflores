@@ -1,11 +1,12 @@
 # Mi perfil de Github
 
-Soy un programador Java con dos años de experiencia en el desarrollo de aplicaciones web. Me apasiona el mundo de la tecnología y siempre estoy buscando aprender cosas nuevas.
+Soy un desarrollador con +4 años de experiencia en el desarrollo de microservicios con Java y Spring Framework. 
+Me apasiona el mundo de la tecnología y siempre estoy buscando aprender cosas nuevas, superar mis límites y ayudar a mis compañeros a que ellos logren tener éxito. 
 
 ## Experiencia
 
 - Desarrollo de aplicaciones web con Java y el framework Spring Boot.
-- Desarrollo de aplicaciones con Python/Django
+- Capa de persistencia Hibernate
 - Uso de herramientas de control de versiones como Git y GitHub.
 - Uso de bases de datos relacionales como MySQL y PostgreSQL.
 
