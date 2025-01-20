@@ -1,28 +1,31 @@
-# Mi perfil de Github
+### 🌟 About Me  
+I am a backend developer with over 4 years of experience designing and implementing scalable microservices using **Java** and **Spring Framework**. I am passionate about solving complex problems, learning new technologies, and collaborating with teams to achieve outstanding results.
 
-Soy un desarrollador con +4 años de experiencia en el desarrollo de microservicios con Java y Spring Framework. 
-Me apasiona el mundo de la tecnología y siempre estoy buscando aprender cosas nuevas, superar mis límites y ayudar a mis compañeros a que ellos logren tener éxito. 
+---
 
-## Experiencia
+### 💻 Technical Skills  
+- **Languages and Frameworks**: Java, Spring Boot, Hibernate.  
+- **Databases**: MySQL, PostgreSQL, SQL Server.  
+- **Tools and Methodologies**: Git/GitHub, CI/CD, Agile methodologies (Scrum).  
+- **Infrastructure**: OpenShift, ElasticSearch, Kibana, ETL.  
+- **Testing**: JUnit, Mockito, Selenium.  
 
-- Desarrollo de aplicaciones web con Java y el framework Spring Boot.
-- Capa de persistencia Hibernate
-- Uso de herramientas de control de versiones como Git y GitHub.
-- Uso de bases de datos relacionales como MySQL y PostgreSQL.
+---
 
-## Proyectos destacados
+### 🚀 Featured Projects  
+- **File Management:** Developed a web application for uploading, storing, and managing files using Spring Boot and relational databases.  
+- **Burger Orders:** Interactive front-end application allowing users to customize and place orders.  
 
-- [Proyecto 1](https://github.com/emaflores/file-upload-api): Desarrollo de una aplicación web para guardar archivos.
-- [Proyecto 2](https://github.com/emaflores/ReactJs-Redux-Firebase-App): Desarrollo de una aplicación front end para hacer un pedido de hamburguesa
+---
 
-## Intereses
+### 🎯 Interests  
+- Backend development for web and mobile applications.  
+- Machine Learning and Artificial Intelligence.  
+- Internet of Things (IoT).  
 
-- Desarrollo de aplicaciones web y móviles.
-- Inteligencia artificial y machine learning.
-- Internet de las cosas (IoT).
+---
 
-## Contacto
-
-Si quieres contactar conmigo, puedes hacerlo a través de mi correo electrónico: [emanuelzero@gmail.com](mailto:emanuelzero@gmail.com).
-
-
+### 📬 Contact Me  
+- **Email**: emanuelzero@gmail.com  
+- **LinkedIn**: [linkedin.com/in/emanuelzero](#)  
+- **Projects**: Explore my repositories here on GitHub.
